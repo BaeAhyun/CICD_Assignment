@@ -1,0 +1,13 @@
+.git
+.gitignore
+.github
+.env
+*.log
+node_modules
+vendor
+CICD_Assignment_Roadmap.md
+README.md
+Dockerfile
+.dockerignore
+docker-compose.yml
+init.sql
